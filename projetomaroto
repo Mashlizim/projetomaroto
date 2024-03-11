@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head>
+    <meta charset="UTF-8"
+    <title><b><h1>CÓDIGOS DE HTML (iniciante)</h1></b></title>
+    <style>
+     h1 {
+         font-family: Arial;
+         font-size: 20pt;
+         color: rgb(233, 8, 173);
+         text-shadow: 2px 3px 4px;
+
+     }
+
+    </style>
+<style>
+    h3 {
+        font-family: Arial;
+        font-size: 20pt;
+        color: aquamarine(233,8,173);
+        text-decoration-line: inherit;
+        text-shadow: 2px 3px 4px;
+
+    }
+
+</style>
+
+<py-script>
+
+ name = input('qual seu nome?')
+ print(f'Olá {name}, bem vindo a programção!!')
+ 
+</py-script>
+
+
+<script>
+alert('Faz o LKKKKAKKKAKAKK, calma que eu tô testantdo o script aki,pq ele tá no lugar errado por isso aparece essa msg');
+</script>
+
+</head>
+<body>
+    <h2>Como dizia o filósofo Piton...</h2>
+    <h4>Não, não desista dos seus sonhos....até pq,já ouviu falar em cabo da vassoura?</h4s>
+    <p> Testando códigos de html</p>
+    <br>
+ <p>Fique tranquilo(a) que não tem como eu ter acesso à qualquer informação pelo seu e-mail, até pq se digitar não irá à lugar algum;)</p>
+<p>!!! Apenas estou testando os bgl vein !!!</p>
+
+    <h3>Insira seu e-mail:</h3>
+    <input type="email">
+   <h3>Insira sua senha:</h3>
+    <input type="password">
+   
+   
+    <br>
+   <br><a href="https://store.steampowered.com/sale/UbisoftPublisherSale2024">STEAM</a>
+ <p>Acesse seus jogos atráves da plataforma <a href="https://store.steampowered.com/sale/UbisoftPublisherSale2024">Steam</a> para jogar gratuitamente!!!</p>
+<p>Você pode estar jogando também o famoso robrox,só aperta o link ai meu cumpade :)<a href="https://www.roblox.com/">Roblox</a>
+<p>Mó trampo pra programar ein, tá maluco, por enquanto tô escrevendo qualquer merda aki pq o site ainda não está funcionando,resumidamente não está hospedado. Se tiver vendo isso saiba que tenho algo importante a dizer...só sei que nada sei</p>
+<p>Tem muita coisa nova aki slk, por enquanto vou me contentando com meu HTML</p>
+
+
+
+
+  <style>
+    .background-verde {
+      background-color: #00ff00; /* Define a cor de fundo como verde */
+    }
+
+  </style>
+
+<div class="background-verde">Este elemento terá um background verde</div>
+
+
+</body>
+</html>
